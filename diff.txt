@@ -1,1 +1,1 @@
-repo + committed + satged + local directory
+committed + satged + local directory
