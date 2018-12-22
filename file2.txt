@@ -1,1 +1,2 @@
 thisi is to show 	file2
+this part 2 of same file

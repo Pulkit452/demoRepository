@@ -1,1 +1,1 @@
-committed + satged + local directory
+ local directory
