@@ -1,0 +1,78 @@
+[33mcommit f17d99cb62040f483ba743bbd6dc532a987e3d3a[m[33m ([m[1;36mHEAD -> [m[1;32mx1.3[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/X1.58[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mx1.60[m[33m, [m[1;32mx1.59[m[33m, [m[1;32mx1.2[m[33m, [m[1;32mx1.1[m[33m, [m[1;32mx1.0+1[m[33m, [m[1;32mx1.0[m[33m, [m[1;32mmaster[m[33m, [m[1;32mX1.58[m[33m)[m
+Merge: 4edc032 5a696a2
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 23:27:29 2018 +0530
+
+    Merge resolved
+
+[33mcommit 4edc0324bd1269f7bb805dadb2d35f8dae617609[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 23:23:53 2018 +0530
+
+    checking
+
+[33mcommit 5a696a24257d0579bec17a3a72f6e08d7ead78ff[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 23:21:03 2018 +0530
+
+    File2 modified in 2nd workspace
+
+[33mcommit 5b1346fff89a5ac580d28836809fd44abbf920d3[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 22:51:34 2018 +0530
+
+    changes made to new branch
+
+[33mcommit 77cfee0134e8e23d0e8dfb16d6f5f23ffdbbc6db[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 17:07:02 2018 +0530
+
+    diff file commit
+
+[33mcommit 8f0eb56fb72d4de07821195a5c5ede4c9fb4d147[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 17:05:12 2018 +0530
+
+    Diff file submitted
+
+[33mcommit fa773d235d86c9bbd4ae6340a39586c6bb6a79f0[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Sat Dec 22 17:04:29 2018 +0530
+
+    File2 is submitted
+
+[33mcommit 766ec5b7c7babf5e0a8164c6c339fbd61600c5e5[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Wed Dec 19 22:50:51 2018 +0530
+
+    file2 deleted
+
+[33mcommit f30dd2310dd5798950c75b8552a580d4b8453fe1[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Wed Dec 19 22:49:37 2018 +0530
+
+    file deleted
+
+[33mcommit 525751d8eac650bc530299544ecb581f509f30b0[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Wed Dec 19 21:58:51 2018 +0530
+
+    file 3 is added
+
+[33mcommit ca2598846cdcd97555b52e991f7f6161fd518e07[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Wed Dec 19 21:39:00 2018 +0530
+
+    file 2 is added
+
+[33mcommit 3ffeaeadd26f0057e9a5381bdb373ce6c49e5b77[m
+Author: Pulkit452 <pulkitgupta452@gmail.com>
+Date:   Wed Dec 19 21:35:21 2018 +0530
+
+    text 1 is added
+
+[33mcommit 6e16e899dac06294a510cff90c648f2386b74b9b[m
+Author: Pulkit452 <37441243+Pulkit452@users.noreply.github.com>
+Date:   Wed Dec 19 21:20:07 2018 +0530
+
+    Initial commit
